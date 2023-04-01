@@ -1,2 +1,3 @@
 # Statistical-learning-method
+include perceptron(not good),knn
 updating...
